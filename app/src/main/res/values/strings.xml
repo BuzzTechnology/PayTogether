@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PayTogether</string>
+    <string name="offline_calc_string">Оффлайн калькулятор</string>
+    <string name="sign_in_string">Войти</string>
+    <string name="registration_string">Регистрация</string>
+    <string name="cancel_string">Отмена</string>
+    <string name="confirm_string">Готово</string>
+    <string name="input_name_string">Введите имя</string>
+    <string name="title_dialog_add_pal">Введите имя собутыльника</string>
+    <string name="delete_pal">Удалить</string>
+    <string name="text_simple_toast">Hi, I am just a simple toast!</string>
+</resources>

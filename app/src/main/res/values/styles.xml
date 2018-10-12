@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <!--<resources>-->
+        <!--&lt;!&ndash; your theme inherits from the material theme &ndash;&gt;-->
+        <!--<style name="AppTheme" parent="android:Theme.Material">-->
+            <!--&lt;!&ndash; theme customizations &ndash;&gt;-->
+        <!--</style>-->
+    <!--</resources>-->
+
+</resources>

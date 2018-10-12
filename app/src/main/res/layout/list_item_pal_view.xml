@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.buzztechnology.paytogether.paytogether.choisePal.CheckableLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:foreground="@drawable/gallery_item_foreground"
+    android:gravity="center_vertical">
+
+    <CheckBox
+        android:id="@+id/is_pal_list_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"/>
+
+    <TextView
+        android:id="@+id/name_list_item_pal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="ExampleList"/>
+
+</com.buzztechnology.paytogether.paytogether.choisePal.CheckableLinearLayout>
